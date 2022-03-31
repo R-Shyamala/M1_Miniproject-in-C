@@ -36,5 +36,20 @@
 * This can result in data loss and, in some cases, data that is easily accessible to thieves.
 # 4W's and 1H
 1. Who: 
-This Library Management System is an application that all students and employees with ids use.
-
+* This Library Management System is an application that all students and employees with ids use.
+2. What:
+* Library Management Systems  is software that assists in the maintenance of a database that is used to enter new books and track books borrowed by members, as well as their due dates.
+3. When:
+* This Library Management System proves useful when a significant number of people visit the library to return, renew, or borrow books. Manually entering entries is time-consuming, hence this project comes in helpful.
+4. Where: 
+* For schools, colleges, private libraries, and other organisations, a library management system is increasingly required. They can use this programme to issue books and have them returned for renewal.
+5. How:
+* This project is implemented to do the book issuing, retunrn, or renewal purpose by entering the student or faculty id as input.
+# High level requirements
+|RID  |	DESCRIPTION |	STATUS      |
+-----------------------------------
+|HLR1 |	C LANGUAGE  |	IMPLEMENTED |
+|HLR2 |	OS WINDOWS	| IMPLEMENTED |
+|HLR3 |	OS LINUX	  | IMPLEMENTED |
+|HLR4 |	HARDDISK	  | IMPLEMENTED |
+|HLR5 |	RAM 4GB	    | IMPLEMENTED |
